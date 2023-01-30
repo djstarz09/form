@@ -1,0 +1,15 @@
+body{
+    background-image: url(space.jpg);
+    padding: 30px 20px 100px 20px;
+    background-attachment: fixed;
+}
+h1{
+    background-color: gray;
+    border-radius: 34cm;
+}
+form{
+    padding: 30px 100px 30px 100px;
+    background-color:lightgray;
+    border-radius: 2cm;
+    opacity: 0.5;
+}
